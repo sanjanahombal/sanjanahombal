@@ -1,22 +1,19 @@
-<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! </h1>
 
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&background=000000&multiline=true&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+GITHUB)" alt="Typing SVG" />
-</div>
 
 ## Introduction
 
 <div align="justify">
-I'm `<i><b>KARTHIK RUDRAPPA</b></i>` a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
+I'm `<i><b>SANJANA HOMBAL</b></i>` a recent graduate with an MSc in Data Science and Analytics from the University of Hertfordshire. Skilled in using large datasets and advanced algorithms, I specialize in deriving actionable insights for real-world applications. My passion lies in leveraging technology to solve complex problems and I am actively seeking roles in data science and analytics.
 </br>
 </br>
-If you're interested in discussing network security or ethical hacking trends, or collaborating on projects, please feel free to connect with me. I look forward to connecting with like-minded professionals in the industry.
+If you're interested in discussing data science, machine learning, or the latest trends in analytics, or if you'd like to collaborate on projects, feel free to connect with me. I'm always eager to connect with fellow professionals and explore new opportunities in the tech and analytics fields.
 </div>
 
 ## Objective
 
 <div align="justify">
-My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Penetration testing. I am a natural problem solver who thrives in challenging environments. I am also a team player who enjoys working collaboratively with cross-functional teams to achieve project goals. I am committed to staying up-to-date with the latest security trends and industry best practices, and I am constantly seeking new challenges to expand my knowledge and skills.
+My journey in computer science and data science has fueled my passion for analytics and machine learning. I am now eager to further immerse myself in the field, aiming to join a role where I can apply my skills in data-driven problem-solving. I thrive in challenging environments, using data to uncover insights and deliver solutions. I enjoy working collaboratively with cross-functional teams, leveraging diverse skill sets to achieve project goals. Committed to staying current with the latest trends in data science and analytics, I continuously seek new challenges to expand my knowledge and expertise.
 </div>
 
 ## Skills
