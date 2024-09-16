@@ -69,17 +69,6 @@ My journey in computer science and data science has fueled my passion for analyt
 [![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-## Labs
-
-| Skill         | Associated Project |
-| ------------- | ------------------ |
-| Still Working | Still Working      |
-|               |                    |
-|               |                    |
-|               |                    |
-|               |                    |
-|               |                    |
-
 ## Projects
 
 - Still Working on these
