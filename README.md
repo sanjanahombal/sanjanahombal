@@ -21,11 +21,11 @@ My journey in computer science and data science has fueled my passion for analyt
 > Language
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![R](https://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R&logoColor=276DC3)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+
 
 > Skills
 
