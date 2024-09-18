@@ -78,11 +78,11 @@ My journey in computer science and data science has fueled my passion for analyt
 
 ## Contact Me HERE !
 
-[![LinkedIn](https://img.shields.io/badge/-Karthik%20R-000?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/karthik-rudrappa/)
-[![Gmail](https://img.shields.io/badge/-Karthik%20R-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kennikarthik@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Karthik%20R-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenni001)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=4CAF50)](https://kenni001.github.io/Terminal_Portfolio/)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![LinkedIn](https://img.shields.io/badge/-Sanjana%20H-000?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/karthik-rudrappa/)
+[![Gmail](https://img.shields.io/badge/-Sanjana%20H-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kennikarthik@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Sanjana%20H-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenni001)
+#[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=4CAF50)](https://kenni001.github.io/Terminal_Portfolio/)
+#[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 
 </div>
 
