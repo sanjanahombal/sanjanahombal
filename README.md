@@ -47,19 +47,19 @@ My journey in computer science and data science has fueled my passion for analyt
 
 # My Projects
 
-## 1. [Data Mining Using WEKA](LINK_TO_PROJECT_1)
+### 1. [Data Mining Using WEKA](LINK_TO_PROJECT_1)
 - **Description:** Analyzed "Heart Condition" dataset using LibSVM (RBF kernel) and J48 models in WEKA software. Optimized parameters via grid-search and parameter-search and performed 10-fold cross-validation to compare models.
 
-## 2. [Analysis of Live Births in New York](LINK_TO_PROJECT_2)
+### 2. [Analysis of Live Births in New York](LINK_TO_PROJECT_2)
 - **Description:** Investigated differences in the mean of live births between upstate and downstate counties using R Programming. Conducted pairwise.t.test() and visualized results, achieving statistically significant insights.
 
-## 3. [ML Based Smart Health Insurance System](LINK_TO_PROJECT_3)
+### 3. [ML Based Smart Health Insurance System](LINK_TO_PROJECT_3)
 - **Description:** Developed a webpage using Python and HTML to detect fraudulent health insurance claims with the XGBoost algorithm, achieving 98% accuracy in identifying fraud.
 
-## 4. [Face Mask Detection](LINK_TO_PROJECT_4)
+### 4. [Face Mask Detection](LINK_TO_PROJECT_4)
 - **Description:** Created a real-time face mask detection system using CNN classifiers in Python, improving accuracy to 97% and reducing latency by 25%.
 
-## 5. [Dissertation: A Study on Sentiment Analysis Techniques](https://github.com/sanjanahombal/Study-on-Sentiment-Analysis)
+### 5. [Dissertation: A Study on Sentiment Analysis Techniques](https://github.com/sanjanahombal/Study-on-Sentiment-Analysis)
 - **Description:** Investigated various algorithms and vectorization methods for sentiment analysis. Achieved distinction for demonstrating the effectiveness of different machine learning models and their performance on textual data.
 
 
