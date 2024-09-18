@@ -47,8 +47,13 @@ My journey in computer science and data science has fueled my passion for analyt
 
 ## Projects
 
-- Still Working on these
-- 
+- [![Health Monitoring System](https://img.shields.io/badge/-Health%20Monitoring%20System%20using%20IoT-000000?style=for-the-badge&logo=Internet%20of%20Things&logoColor=00CED1)](https://your_project_link_here.com)
+- [![I-Human Organ Donation System](https://img.shields.io/badge/-I--Human%20Organ%20Donation%20System-000000?style=for-the-badge&logo=Organ%20Donation&logoColor=FF4500)](https://your_project_link_here.com)
+- [![ML Based Smart Health Insurance System](https://img.shields.io/badge/-ML%20Based%20Smart%20Health%20Insurance%20System-000000?style=for-the-badge&logo=Machine%20Learning&logoColor=FF6347)](https://your_project_link_here.com)
+- [![Face Mask Detection](https://img.shields.io/badge/-Face%20Mask%20Detection-000000?style=for-the-badge&logo=Face%20Recognition&logoColor=1E90FF)](https://your_project_link_here.com)
+- [![Data Mining Using WEKA](https://img.shields.io/badge/-Data%20Mining%20Using%20WEKA-000000?style=for-the-badge&logo=Data%20Mining&logoColor=FFD700)](https://your_project_link_here.com)
+- [![Sentiment Analysis](https://img.shields.io/badge/-Dissertation%3A%20Sentiment%20Analysis%20Techniques-000000?style=for-the-badge&logo=Sentiment%20Analysis&logoColor=FF4500)](https://github.com/sanjanahombal/Study-on-Sentiment-Analysis)
+
 
 <div align="center">
 
