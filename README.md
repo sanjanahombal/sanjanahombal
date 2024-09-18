@@ -45,14 +45,23 @@ My journey in computer science and data science has fueled my passion for analyt
 ![Digital Futures](https://img.shields.io/badge/-Digital%20Futures%20A%2FB%20Testing-000000?style=for-the-badge&logo=AB%20Testing&logoColor=FF6347)
 
 
-## Projects
+# My Projects
 
-- [![Health Monitoring System](https://img.shields.io/badge/-Health%20Monitoring%20System%20using%20IoT-000000?style=for-the-badge&logo=Internet%20of%20Things&logoColor=00CED1)](https://your_project_link_here.com)
-- [![I-Human Organ Donation System](https://img.shields.io/badge/-I--Human%20Organ%20Donation%20System-000000?style=for-the-badge&logo=Organ%20Donation&logoColor=FF4500)](https://your_project_link_here.com)
-- [![ML Based Smart Health Insurance System](https://img.shields.io/badge/-ML%20Based%20Smart%20Health%20Insurance%20System-000000?style=for-the-badge&logo=Machine%20Learning&logoColor=FF6347)](https://your_project_link_here.com)
-- [![Face Mask Detection](https://img.shields.io/badge/-Face%20Mask%20Detection-000000?style=for-the-badge&logo=Face%20Recognition&logoColor=1E90FF)](https://your_project_link_here.com)
-- [![Data Mining Using WEKA](https://img.shields.io/badge/-Data%20Mining%20Using%20WEKA-000000?style=for-the-badge&logo=Data%20Mining&logoColor=FFD700)](https://your_project_link_here.com)
-- Sentiment Analysis [![Sentiment Analysis](https://img.shields.io/badge/-Link-000000?style=for-the-badge&logo=Sentiment%20Analysis&logoColor=FF4500)](https://github.com/sanjanahombal/Study-on-Sentiment-Analysis)
+## 1. [Data Mining Using WEKA](LINK_TO_PROJECT_1)
+- **Description:** Analyzed "Heart Condition" dataset using LibSVM (RBF kernel) and J48 models in WEKA software. Optimized parameters via grid-search and parameter-search and performed 10-fold cross-validation to compare models.
+
+## 2. [Analysis of Live Births in New York](LINK_TO_PROJECT_2)
+- **Description:** Investigated differences in the mean of live births between upstate and downstate counties using R Programming. Conducted pairwise.t.test() and visualized results, achieving statistically significant insights.
+
+## 3. [ML Based Smart Health Insurance System](LINK_TO_PROJECT_3)
+- **Description:** Developed a webpage using Python and HTML to detect fraudulent health insurance claims with the XGBoost algorithm, achieving 98% accuracy in identifying fraud.
+
+## 4. [Face Mask Detection](LINK_TO_PROJECT_4)
+- **Description:** Created a real-time face mask detection system using CNN classifiers in Python, improving accuracy to 97% and reducing latency by 25%.
+
+## 5. [Dissertation: A Study on Sentiment Analysis Techniques](https://github.com/sanjanahombal/Study-on-Sentiment-Analysis)
+- **Description:** Investigated various algorithms and vectorization methods for sentiment analysis. Achieved distinction for demonstrating the effectiveness of different machine learning models and their performance on textual data.
+
 
 
 <div align="center">
